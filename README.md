@@ -1,11 +1,11 @@
-# 🤖 ML Projects Portfolio — Production-Ready FastAPI APIs with Auto Model Selection
+# 🤖 ML Projects FastAPI APIs with Auto Model Selection
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?logo=fastapi)](https://fastapi.tiangolo.com)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4-F7931E?logo=scikit-learn)](https://scikit-learn.org)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker)](https://docker.com)
 
-> **7 machine learning projects** transformed from Jupyter notebooks into **production-ready FastAPI REST APIs** with **automated multi-model selection**, MVC architecture, Pydantic v2 validation, Docker support, and comprehensive unit tests.
+> **7 machine learning projects** transformed from Jupyter notebooks into **FastAPI REST APIs** with **automated multi-model selection**, MVC architecture, Pydantic v2 validation, Docker support, and comprehensive unit tests.
 
 ---
 

@@ -162,8 +162,7 @@ docker run -p 8000:8000 -v $(pwd)/data:/app/data ml-api
 | Config | pydantic-settings | 2.2+ |
 | Persistence | joblib | 1.4+ |
 | Data | pandas + numpy | 2.2+ / 1.26+ |
-| Testing | pytest + httpx | 8.0+ |
-| Container | Docker | — |
+
 
 ---
 

@@ -1,0 +1,18 @@
+﻿# Application Configuration
+# Override any value via .env file or environment variables
+
+api:
+  title: "ML Prediction API"
+  version: "1.0.0"
+  debug: false
+
+data:
+  test_size: 0.2
+  random_state: 0
+
+model:
+  path: "app/models/best_model.joblib"
+
+logging:
+  level: INFO
+  format: "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s"

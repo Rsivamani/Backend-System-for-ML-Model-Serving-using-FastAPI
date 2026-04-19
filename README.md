@@ -1,4 +1,4 @@
-# 🤖 ML Projects FastAPI APIs with Auto Model Selection
+# 🤖 ML Projects with FastAPI 
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?logo=fastapi)](https://fastapi.tiangolo.com)
